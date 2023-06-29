@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beasleyPetAdopt/static/css/main.a76e6dde.css",
+    "main.js": "/beasleyPetAdopt/static/js/main.34932416.js",
+    "static/js/787.968c7715.chunk.js": "/beasleyPetAdopt/static/js/787.968c7715.chunk.js",
+    "index.html": "/beasleyPetAdopt/index.html",
+    "main.a76e6dde.css.map": "/beasleyPetAdopt/static/css/main.a76e6dde.css.map",
+    "main.34932416.js.map": "/beasleyPetAdopt/static/js/main.34932416.js.map",
+    "787.968c7715.chunk.js.map": "/beasleyPetAdopt/static/js/787.968c7715.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76e6dde.css",
+    "static/js/main.34932416.js"
+  ]
+}
